@@ -1,0 +1,27 @@
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\bin\Debug\My File Manager.exe.config
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\bin\Debug\My File Manager.exe
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\bin\Debug\My File Manager.pdb
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\obj\Debug\My File Manager.csprojResolveAssemblyReference.cache
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\obj\Debug\My_File_Manager.Form1.resources
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\obj\Debug\My_File_Manager.Properties.Resources.resources
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\obj\Debug\My File Manager.csproj.GenerateResource.Cache
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\obj\Debug\My File Manager.exe
+C:\Users\Василий\AppData\Local\Temporary Projects\My File Manager\obj\Debug\My File Manager.pdb
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\bin\Debug\My File Manager.exe.config
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\obj\Debug\My File Manager.exe
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\obj\Debug\My File Manager.pdb
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\bin\Debug\My File Manager.exe
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\bin\Debug\My File Manager.pdb
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\obj\Debug\My File Manager.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\obj\Debug\My_File_Manager.Form1.resources
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\obj\Debug\My_File_Manager.Properties.Resources.resources
+C:\Users\Василий\Documents\Visual Studio 2012\Projects\My File Manager\My File Manager\obj\Debug\My File Manager.csproj.GenerateResource.Cache
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\bin\Debug\My File Manager.exe.config
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\obj\Debug\My File Manager.exe
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\obj\Debug\My File Manager.pdb
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\bin\Debug\My File Manager.exe
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\bin\Debug\My File Manager.pdb
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\obj\Debug\My File Manager.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\obj\Debug\My_File_Manager.Form1.resources
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\obj\Debug\My_File_Manager.Properties.Resources.resources
+D:\YandexDisk\Университет\Лучшие проекты\My File Manager\My File Manager\obj\Debug\My File Manager.csproj.GenerateResource.Cache
